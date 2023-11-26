@@ -19,3 +19,9 @@ The provided Python script demonstrates the construction of a feedforward neural
    ```bash
    git clone https://github.com/your-username/neural-network-keras.git
    cd neural-network-keras
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/neural-network-keras.git
+   cd neural-network-keras
