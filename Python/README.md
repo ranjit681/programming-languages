@@ -32,7 +32,7 @@ The provided Python script demonstrates the construction of a feedforward neural
 
 ## Usage
 
-- Python (>=3.6)
+- Replace the placeholder for data loading (# Load your data) with your actual data loading code.
 - TensorFlow (>=2.x)
 - Keras (Integrated with TensorFlow)
 
