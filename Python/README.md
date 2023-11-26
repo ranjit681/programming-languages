@@ -21,13 +21,13 @@ The provided Python script demonstrates the construction of a feedforward neural
    cd neural-network-keras
 Install the required libraries:
 
-bash
-Copy code
+```bash
+
 pip install tensorflow
 Run the Python script:
 
 bash
-Copy code
+
 python neural_network.py
 Usage
 Replace the placeholder for data loading (# Load your data) with your actual data loading code.
