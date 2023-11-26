@@ -30,7 +30,7 @@ The provided Python script demonstrates the construction of a feedforward neural
    ```bash
    python neural_network.py
 
-## Prerequisites
+## Usage
 
 - Python (>=3.6)
 - TensorFlow (>=2.x)
