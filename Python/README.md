@@ -38,5 +38,5 @@ The provided Python script demonstrates the construction of a feedforward neural
 
 ## File Structure
 - neural_network.py: Python script containing the neural network implementation.
-README.md: This file providing information about the project.
+
 
