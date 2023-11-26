@@ -36,3 +36,7 @@ The provided Python script demonstrates the construction of a feedforward neural
 - Modify the neural network architecture, activation functions, or other parameters as needed for your specific task.
 - Train the model with your dataset by uncommenting and adapting the training code (model.fit()).
 
+## File Structure
+- neural_network.py: Python script containing the neural network implementation.
+README.md: This file providing information about the project.
+
