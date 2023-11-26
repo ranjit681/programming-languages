@@ -14,30 +14,8 @@ The provided Python script demonstrates the construction of a feedforward neural
 
 ## Getting Started
 
-1. Clone the repository:
+1. **Clone the repository:**
 
    ```bash
    git clone https://github.com/your-username/neural-network-keras.git
    cd neural-network-keras
-Install the required libraries:
-
-```bash
-
-pip install tensorflow
-Run the Python script:
-
-bash
-
-python neural_network.py
-Usage
-Replace the placeholder for data loading (# Load your data) with your actual data loading code.
-Modify the neural network architecture, activation functions, or other parameters as needed for your specific task.
-Train the model with your dataset by uncommenting and adapting the training code (model.fit()).
-File Structure
-neural_network.py: Python script containing the neural network implementation.
-README.md: This file providing information about the project.
-Contributing
-Contributions are welcome! If you find any issues or improvements, feel free to create an issue or pull request.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
