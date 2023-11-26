@@ -20,8 +20,7 @@ The provided Python script demonstrates the construction of a feedforward neural
    git clone https://github.com/your-username/neural-network-keras.git
    cd neural-network-keras
 
-1. Clone the repository:
+1. Install the required libraries:
 
    ```bash
-   git clone https://github.com/your-username/neural-network-keras.git
-   cd neural-network-keras
+   pip install tensorflow
