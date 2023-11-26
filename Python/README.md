@@ -34,5 +34,5 @@ The provided Python script demonstrates the construction of a feedforward neural
 
 - Replace the placeholder for data loading (# Load your data) with your actual data loading code.
 - Modify the neural network architecture, activation functions, or other parameters as needed for your specific task.
-- Keras (Integrated with TensorFlow)
+- Train the model with your dataset by uncommenting and adapting the training code (model.fit()).
 
