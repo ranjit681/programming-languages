@@ -24,3 +24,9 @@ The provided Python script demonstrates the construction of a feedforward neural
 
    ```bash
    pip install tensorflow
+
+1. Run the Python script:
+
+   ```bash
+   python neural_network.py
+
