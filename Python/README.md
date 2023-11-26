@@ -33,6 +33,6 @@ The provided Python script demonstrates the construction of a feedforward neural
 ## Usage
 
 - Replace the placeholder for data loading (# Load your data) with your actual data loading code.
-- TensorFlow (>=2.x)
+- Modify the neural network architecture, activation functions, or other parameters as needed for your specific task.
 - Keras (Integrated with TensorFlow)
 
