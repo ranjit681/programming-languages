@@ -21,3 +21,19 @@ int binarySearch(int arr[], int left, int right, int target) {
     // If the target is not found
     return -1;
 }
+
+int main() {
+    int sortedArray[] = {2, 4, 6, 8, 10, 12, 14, 16, 18, 20};
+    int targetValue = 12;
+    int arraySize = sizeof(sortedArray) / sizeof(sortedArray[0]);
+
+    int resultIndex = binarySearch(sortedArray, 0, arraySize - 1, targetValue);
+
+    if (resultIndex != -1) {
+        printf("Element found at index %d\n", resultIndex);
+    } else {
+        printf("Element not found in the array\n");
+    }
+
+    return 0;
+}
