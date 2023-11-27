@@ -9,3 +9,11 @@ function binarySearch(arr, target) {
     if (arr[mid] === target) {
       return mid;
     }
+    // If the target is greater, ignore left half
+    if (arr[mid] < target) {
+      left = mid + 1;
+    } else {
+      // If the target is smaller, ignore right half
+      right = mid - 1;
+    }
+  }
